@@ -1,0 +1,12 @@
+RESOURCES
+
+1. https://www.instructables.com/Arduino-IoT-Robotic-Arm/  (5 servo motors)
+2. https://iotdesignpro.com/projects/iot-based-robotic-arm-using-esp8266
+3. https://www.youtube.com/watch?v=LBNRGBY5zN8
+4. https://www.youtube.com/watch?v=lEV_0uFFpBU
+5. https://www.youtube.com/watch?v=F0ZvF-FbCr0
+6. https://create.arduino.cc/projecthub/aerdronix/arduino-iot-robotic-arm-5a4401
+7. https://www.youtube.com/watch?v=bzWgVFyGx1U - kit and code
+8.
+9.
+10.
