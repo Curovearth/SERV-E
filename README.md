@@ -46,5 +46,16 @@ problems up till some extent.</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
     <h2>Control using Application</h2>
-    <img width=600 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/control.gif">
+    <img width=600 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/control.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
+</div>
+<br><br><br>
+<div>
+    <h2>Future Scope</h2>
+    <p>I initially aimed to cover a lot of aspects but due to the time and resource constraint, the project was left uncompleted. Following I have highlighted what all can be done to make it much better than the first 
+        <ol>
+            <li>The current version is a single layer robot but there could be multi levels to have different compartments for putting up the desired objects for the user. </li>
+            <li>Because the current version still works via Bluetooth, I want it to have fully enable IoT services to monitor everything such that the control could also be accessed by user’s relatives living at different location. </li>
+            <li> The future could see inculcation of neural networks to make the robot much more autonomous in terms of mapping the house and specifying important locations along with the ability to speak to the user as well. </li>
+        <ol>
+    </p>
 </div>
