@@ -38,12 +38,12 @@ problems up till some extent.</p>
 <br><br><br><br><br><br><br>
 <div>
     <h2>4 Degrees of Freedom</h2>
-    <img width=450 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/1.gif">
-    <img width=450 align=right src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/2.gif">
-    <img width=450 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/3.gif">
-    <img width=450 align=right src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/4.gif">
+    <img width=350 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/1.gif">
+    <img width=350 align=right src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/2.gif">
+    <img width=350 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/3.gif">
+    <img width=350 align=right src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/DOF/4.gif">
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
     <h2>Control using Application</h2>
     <img width=600 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/control.gif">
