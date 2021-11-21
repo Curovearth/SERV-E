@@ -1,8 +1,7 @@
 <div>
     <img align=right src="https://img.shields.io/badge/Build-Version%201-green">
-    <h1>SERV-E<h3>"At your Service"</h3></h1>
+    <h1>SERV-E -> "At your Service"</h1>
 </div>
-<br>
 <div>
     <h2>Problem Statement</h2>
     <img align=right width=350 src="https://post.healthline.com/wp-content/uploads/2020/10/Elderly_Wheelchair_Rearview_732x549-thumbnail-732x549.jpg">
@@ -46,9 +45,9 @@ problems up till some extent.</p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div>
     <h2>Control using Application</h2>
-    <img width=600 align=left src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/control.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
+    <img  align=center src="https://github.com/Swarzinium-369/SERV-E/blob/main/Img-Vid/control.gif"><br><br>
 </div>
-<br><br><br>
+
 <div>
     <h2>Future Scope</h2>
     <p>I initially aimed to cover a lot of aspects but due to the time and resource constraint, the project was left uncompleted. Following I have highlighted what all can be done to make it much better than the first 
@@ -58,4 +57,18 @@ problems up till some extent.</p>
             <li> The future could see inculcation of neural networks to make the robot much more autonomous in terms of mapping the house and specifying important locations along with the ability to speak to the user as well. </li>
         <ol>
     </p>
+</div>
+
+<div>
+    <h2>Problems Faced</h2>
+    <p>I created to assign the control of each servo to the user. The prior goal was to fix the broken pipe error which I was facing because of the app created using MIT App inventor but I wasn’t able to figure out for the same. 
+    </p>
+</div>
+
+
+------------------
+    
+<div>
+    <p><b><i>If you feel it looks good and If you gave your own innovative changes to it. Make sure to contribute here! :smile: </i></b></p>
+    <p><b>HAPPY HACKING!</b></p>
 </div>
