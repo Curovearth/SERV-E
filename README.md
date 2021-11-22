@@ -77,10 +77,10 @@ problems up till some extent.</p>
 <p><b>Let's Contribute and Learn Together</b></p>
     <h3>Major Contributors</h3>
     <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li> :infinity: Swarup Tripathy</li>
+        <li><a href="">  </a></li> <!--Yatharth-->
+        <li><a href="">  </a></li> <!--zayd-->
+        <li><a href="">  </a></li> <!--anvit-->
+        <li>Swarup Tripathy :smile: </li>
     </ul>
 <a href = "https://github.com/Swarzinium-369/SERV-E/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Swarzinium-369/SERV-E"/>
