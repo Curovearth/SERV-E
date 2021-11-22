@@ -72,7 +72,7 @@ problems up till some extent.</p>
     <p><b><i>If you feel it looks good and If you gave your own innovative changes to it. Make sure to contribute here! :smile: </i></b></p>
     <p><b>HAPPY HACKING!</b></p>
 </div>
-
+<div>
 <h2>Contributors :smile:</h2>
 <p><b>Let's Contribute and Learn Together</b></p>
     <h3>Major Contributors</h3>
@@ -82,6 +82,8 @@ problems up till some extent.</p>
         <li><a href="">  </a></li> <!--anvit-->
         <li>Swarup Tripathy :smile: </li>
     </ul>
-<a href = "https://github.com/Swarzinium-369/SERV-E/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Swarzinium-369/SERV-E"/>
+</div>
+
+<a href="https://github.com/Zayd1602/SERV-E/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Zayd1602/SERV-E" />
 </a>
