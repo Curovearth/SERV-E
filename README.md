@@ -77,7 +77,7 @@ problems up till some extent.</p>
 <p><b>Let's Contribute and Learn Together</b></p>
     <h3>Major Contributors</h3>
     <ul>
-        <li><a href="">  </a></li> <!--Yatharth-->
+        <li><a href="https://github.com/yatharthagr7"> Yatharth Agarwal 😉</a></li> <!--Yatharth-->
         <li><a href="https://github.com/Zayd1602"> Mohammad Zayd 😎</a></li> <!--zayd-->
         <li><a href="">  </a></li> <!--anvit-->
         <li>Swarup Tripathy :smile: </li>
