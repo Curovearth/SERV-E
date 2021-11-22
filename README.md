@@ -75,6 +75,13 @@ problems up till some extent.</p>
 
 <h2>Contributors :smile:</h2>
 <p><b>Let's Contribute and Learn Together</b></p>
+    <h3>Major Contributors</h3>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li> :infinity: Swarup Tripathy</li>
+    </ul>
 <a href = "https://github.com/Swarzinium-369/SERV-E/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=Swarzinium-369/SERV-E"/>
 </a>
