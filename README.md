@@ -84,6 +84,6 @@ problems up till some extent.</p>
     </ul>
 </div>
 
-<a href="https://github.com/Zayd1602/SERV-E/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Zayd1602/SERV-E" />
+<a href="https://github.com/Anvit1618/SERV-E/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Anvit1618/SERV-E" />
 </a>
