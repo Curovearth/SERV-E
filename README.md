@@ -79,7 +79,7 @@ problems up till some extent.</p>
     <ul>
         <li><a href="https://github.com/yatharthagr7"> Yatharth Agarwal 😉</a></li> <!--Yatharth-->
         <li><a href="https://github.com/Zayd1602"> Mohammad Zayd 😎</a></li> <!--zayd-->
-        <li><a href="">  </a></li> <!--anvit-->
+        <li><a href="http://github.com/anvit1618"> Anvit Agarwal :smile: </a></li> <!--anvit-->
         <li>Swarup Tripathy :smile: </li>
     </ul>
 </div>
